@@ -1,0 +1,110 @@
+[
+    {
+        "name": "HomeW8.py",
+        "parent": null,
+        "type": "File",
+        "size": 1701
+    },
+    {
+        "name": "Task8_1",
+        "parent": null,
+        "type": "Directory",
+        "size": 1683
+    },
+    {
+        "name": "task7_3.txt",
+        "parent": "Task8_1",
+        "type": "File",
+        "size": 498
+    },
+    {
+        "name": "task8_1.json",
+        "parent": "Task8_1",
+        "type": "File",
+        "size": 166
+    },
+    {
+        "name": "task8_1.py",
+        "parent": "Task8_1",
+        "type": "File",
+        "size": 1019
+    },
+    {
+        "name": "Task8_2",
+        "parent": null,
+        "type": "Directory",
+        "size": 14200
+    },
+    {
+        "name": "converted_users.csv",
+        "parent": "Task8_2",
+        "type": "File",
+        "size": 372
+    },
+    {
+        "name": "processed_users.json",
+        "parent": "Task8_2",
+        "type": "File",
+        "size": 768
+    },
+    {
+        "name": "processed_users.pkl",
+        "parent": "Task8_2",
+        "type": "File",
+        "size": 461
+    },
+    {
+        "name": "task8_2.py",
+        "parent": "Task8_2",
+        "type": "File",
+        "size": 3188
+    },
+    {
+        "name": "task8_3.py",
+        "parent": "Task8_2",
+        "type": "File",
+        "size": 1552
+    },
+    {
+        "name": "task8_4.py",
+        "parent": "Task8_2",
+        "type": "File",
+        "size": 2545
+    },
+    {
+        "name": "task8_5.py",
+        "parent": "Task8_2",
+        "type": "File",
+        "size": 1250
+    },
+    {
+        "name": "task8_6.py",
+        "parent": "Task8_2",
+        "type": "File",
+        "size": 1541
+    },
+    {
+        "name": "task8_7.py",
+        "parent": "Task8_2",
+        "type": "File",
+        "size": 1215
+    },
+    {
+        "name": "users_2046e13dc01e4b019202b9d0c230cd43.csv",
+        "parent": "Task8_2",
+        "type": "File",
+        "size": 79
+    },
+    {
+        "name": "users_b3e5548d01d8491fa1375cf37d986e3e.json",
+        "parent": "Task8_2",
+        "type": "File",
+        "size": 768
+    },
+    {
+        "name": "users_b3e5548d01d8491fa1375cf37d986e3e.pkl",
+        "parent": "Task8_2",
+        "type": "File",
+        "size": 461
+    }
+]
