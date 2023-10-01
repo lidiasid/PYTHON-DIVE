@@ -1,0 +1,26 @@
+[
+    {
+        "Identifier": "0000000id1",
+        "Name": "Alice",
+        "Access Level": "1",
+        "Hash": "2d7728a9e5f494e812327b4278664159678075d1293212c1484875490074790a"
+    },
+    {
+        "Identifier": "0000000id3",
+        "Name": "Carol",
+        "Access Level": "1",
+        "Hash": "2767a47279f025130b233f020a0acf6452ce3766dfa7fc65d28d3b0b0facdc6c"
+    },
+    {
+        "Identifier": "0000000id2",
+        "Name": "Bob",
+        "Access Level": "2",
+        "Hash": "0de885d414186c547644d3ab05e7bc409d85ad8929b06d5677e1437fe813fa4c"
+    },
+    {
+        "Identifier": "0000000id4",
+        "Name": "Dave",
+        "Access Level": "3",
+        "Hash": "6b37069a5360b6e12fb49881f359d90c45d06d555b2c57e29b911a93e37715e6"
+    }
+]
